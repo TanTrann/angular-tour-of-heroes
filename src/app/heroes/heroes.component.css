@@ -1,0 +1,17 @@
+/* 
+
+/* CSS */
+.badge {
+  background-color: #8fa1d1;
+  padding: 12px 16px;
+  position: relative;
+  text-align: center;
+}
+ 
+.heroes{
+  padding: 0px;
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
